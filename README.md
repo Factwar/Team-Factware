@@ -12,14 +12,14 @@ They way one feel at a particular point in time has great effect on how much and
 Project insight is a solution for pupil in classroom to know how they're feeling and how it affects their learning process
 
 ## Team member
-Yusuf AbdulHakeem
-Data scientist
+• Yusuf AbdulHakeem
+   Data scientist
 
-Oluwakemi Abigail
-Frontend developer
+• Oluwakemi Abigail
+   Frontend developer
 
-Simeon Udoh
-Backend developer
+• Simeon Udoh
+   Backend developer
 
-Mercy
-Data Analyst/ Data scientist
+• Mercy
+   Data Analyst/ Data scientist
